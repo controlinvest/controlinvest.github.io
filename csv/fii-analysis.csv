@@ -1,5 +1,3 @@
-Aviso: ,O Objetivo da planilha é somente educacional e informativo.
-,Nenhum dos dados apresentados aqui deve ser utilizado como recomendação de compra ou venda.
 Data/hora da geração:,24/02/2021,21:25:12
 Codigo Ativo,Setor,Gestao,VPC,Preco,P/VPC,Div Ultimos 12m,DY,Max 52,Min 52,Liquidez,Valor de mercado,Vacancia,Ativos,Qtd Imoveis,Qtd Unidades,Imoveis/PL,(Aluguel/ano)/m2,Preco/m2,Area total,Nota (0-80),Obs
 ABCP11,Shoppings,Passiva,"88,13","=SEERRO(GOOGLEFINANCE(""ABCP11""), ""Nao esta no Google."")","=SEERRO(GOOGLEFINANCE(""ABCP11"") / 88,13, ""N/A"")","2,90","=SEERRO(2,90 / GOOGLEFINANCE(""ABCP11""), ""N/A"")","102,63","68,08",301917,925051000,"2,2",1084740000,1,296,"98,2",745,13053,69628,"29,78",Div Yield muito baixo | P/VPC horrivel | Liquidez: muito baixa | Ativos: otimo | Vacancia: otima
