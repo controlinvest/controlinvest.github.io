@@ -136,6 +136,7 @@ GRLV11,Logistica
 GALG11,Hibrido
 HABT11,Titulos e Val. Mob.
 HCTR11,Titulos e Val. Mob.
+HAAA11,Lajes Corporativas
 ATSA11,Shoppings
 HGBS11,Shoppings
 HLOG11,Logistica
@@ -234,3 +235,386 @@ XPLG11,Logistica
 XPML11,Shoppings
 XPPR11,Outros
 XPSF11,Titulos e Val. Mob.
+AALR3,Análises e Diagnósticos
+ABCB4,Bancos
+ABEV3,Cervejas e Refrigerantes
+HYPE3,Medicamentos e Outros Produtos
+IGBR3,Exploração de Imóveis
+AFLT3,Energia Elétrica
+IGTA3,Exploração de Imóveis
+INEP3,Máq. e Equip. Industriais
+AGRO3,Agricultura
+INEP4,Máq. e Equip. Industriais
+IRBR3,Seguradoras
+ITSA3,Bancos
+ALPA3,Calçados
+ALPA4,Calçados
+ITSA4,Bancos
+ALSO3,Exploração de Imóveis
+ALUP3,Energia Elétrica
+ALUP4,Energia Elétrica
+AMAR3,"Tecidos, Vestuário e Calçados"
+ITUB3,Bancos
+ANIM3,Serviços Educacionais
+APER3,Corretoras de Seguros
+APTI4,Agricultura
+ARZZ3,"Tecidos, Vestuário e Calçados"
+AZEV3,Construção Pesada
+AZEV4,Construção Pesada
+B3SA3,Serviços Financeiros Diversos
+ITUB4,Bancos
+BAHI3,Serviços Educacionais
+BALM3,Equipamentos
+BALM4,Equipamentos
+BAUH4,Carnes e Derivados
+BAZA3,Bancos
+BBAS3,Bancos
+BBDC3,Bancos
+JBDU3,Outros
+JBDU4,Outros
+JBSS3,Carnes e Derivados
+JFEN3,Incorporações
+JHSF3,Incorporações
+JOPA3,Alimentos Diversos
+JOPA4,Alimentos Diversos
+JPSA3,Exploração de Imóveis
+JSLG3,Transporte Rodoviário
+BBDC4,Bancos
+KEPL3,Máq. e Equip. Industriais
+KLBN3,Papel e Celulose
+KLBN4,Papel e Celulose
+LAME3,Produtos Diversos
+LAME4,Produtos Diversos
+LCAM3,Aluguel de carros
+BBRK3,Intermediação Imobiliária
+LEVE3,Automóveis e Motocicletas
+BBSE3,Seguradoras
+LIGT3,Energia Elétrica
+BDLL3,Máq. e Equip. Industriais
+LINX3,Programas e Serviços
+BDLL4,Máq. e Equip. Industriais
+LIPR3,Energia Elétrica
+BEEF3,Carnes e Derivados
+LJQQ3,Produtos Diversos
+LLIS3,"Tecidos, Vestuário e Calçados"
+BEES3,Bancos
+LOGG3,Exploração de Imóveis
+LOGN3,Transporte Hidroviário
+LPSB3,Intermediação Imobiliária
+LREN3,"Tecidos, Vestuário e Calçados"
+BEES4,Bancos
+LUXM3,Transporte Hidroviário
+LUXM4,Transporte Hidroviário
+LWSA3,Programas e Serviços
+BGIP3,Bancos
+MDIA3,Alimentos Diversos
+BGIP4,Bancos
+BIDI3,Bancos
+MEAL3,Restaurante e Similares
+BIDI4,Bancos
+MERC3,Soc. Crédito e Financiamento
+BKBR3,Restaurante e Similares
+MERC4,Soc. Crédito e Financiamento
+BMEB3,Bancos
+MGEL4,Artefatos de Ferro e Aço
+BMEB4,Bancos
+MGLU3,Eletrodomésticos
+BMGB4,Bancos
+MILS3,Serviços Diversos
+BMIN3,Bancos
+MMAQ3,Material de Transporte
+BMIN4,Bancos
+MMAQ4,Material de Transporte
+BMKS3,Bicicletas
+BNBR3,Bancos
+MNDL3,Acessórios
+BOBR3,Produtos de Limpeza
+MNPR3,Carnes e Derivados
+BOBR4,Produtos de Limpeza
+MOAR3,Holdings Diversificadas
+BPAC3,Bancos
+BPAC5,Bancos
+BPAN4,Bancos
+BPAR3,Bancos
+MOVI3,Aluguel de carros
+MRFG3,Carnes e Derivados
+MRVE3,Incorporações
+BRAP3,Minerais Metálicos
+MSPA3,Papel e Celulose
+MSPA4,Papel e Celulose
+BRAP4,Minerais Metálicos
+MTIG3,Embalagens
+BRDT3,"Exploração, Refino e Distribuição"
+BRFS3,Carnes e Derivados
+MTIG4,Embalagens
+BRGE3,Seguradoras
+BRGE5,Seguradoras
+BRGE6,Seguradoras
+MTSA4,Máq. e Equip. Construção e Agrícolas
+BRGE7,Seguradoras
+MULT3,Exploração de Imóveis
+BRIV3,Bancos
+MYPK3,Automóveis e Motocicletas
+BRIV4,Bancos
+BRKM3,Petroquímicos
+BRKM5,Petroquímicos
+NEOE3,Energia Elétrica
+BRKM6,Petroquímicos
+BRML3,Exploração de Imóveis
+BRPR3,Exploração de Imóveis
+BRSR3,Bancos
+BRSR5,Bancos
+BRSR6,Bancos
+BSLI3,Bancos
+ODER3,Alimentos Diversos
+ODER4,Alimentos Diversos
+BSLI4,Bancos
+ODPV3,Análises e Diagnósticos
+BTOW3,Produtos Diversos
+OFSA3,Medicamentos e Outros Produtos
+BTTL3,Material de Transporte
+OIBR3,Telecomunicações
+CALI3,Incorporações
+OIBR4,Telecomunicações
+CALI4,Incorporações
+OMGE3,Energia Elétrica
+CAML3,Alimentos Diversos
+CARD3,Serviços Diversos
+PARD3,Análises e Diagnósticos
+CASN3,Água e Saneamento
+PATI3,Artefatos de Ferro e Aço
+PATI4,Artefatos de Ferro e Aço
+CBEE3,Energia Elétrica
+PCAR3,Alimentos
+CCPR3,Exploração de Imóveis
+CCRO3,Exploração de Rodovias
+PDGR3,Incorporações
+CEAB3,"Tecidos, Vestuário e Calçados"
+PEAB3,Holdings Diversificadas
+PEAB4,Holdings Diversificadas
+PETR3,"Exploração, Refino e Distribuição"
+CEBR3,Energia Elétrica
+PETR4,"Exploração, Refino e Distribuição"
+CEBR5,Energia Elétrica
+CEBR6,Energia Elétrica
+CEDO3,Fios e Tecidos
+PETZ3,Produtos Diversos
+PFRM3,Medicamentos e Outros Produtos
+CEDO4,Fios e Tecidos
+PINE3,Bancos
+CEEB3,Energia Elétrica
+PINE4,Bancos
+CEEB5,Energia Elétrica
+PLAS3,Automóveis e Motocicletas
+CEGR3,Gás
+CEPE3,Energia Elétrica
+CEPE5,Energia Elétrica
+CEPE6,Energia Elétrica
+PMAM3,Artefatos de Cobre
+CESP3,Energia Elétrica
+PNVL3,Medicamentos e Outros Produtos
+CESP5,Energia Elétrica
+CESP6,Energia Elétrica
+PNVL4,Medicamentos e Outros Produtos
+POMO3,Material Rodoviário
+CGAS3,Gás
+POMO4,Material Rodoviário
+CGAS5,Gás
+POSI3,Computadores e Equipamentos
+CGRA3,"Tecidos, Vestuário e Calçados"
+CGRA4,"Tecidos, Vestuário e Calçados"
+PRNR3,Serviços Diversos
+PSSA3,Seguradoras
+CIEL3,Serviços Financeiros Diversos
+PTBL3,Produtos para Construção
+CLSC3,Energia Elétrica
+CLSC4,Energia Elétrica
+PTNT3,Fios e Tecidos
+CMIG3,Energia Elétrica
+PTNT4,Fios e Tecidos
+CMIG4,Energia Elétrica
+QUAL3,Análises e Diagnósticos
+RADL3,Medicamentos e Outros Produtos
+RANI3,Papel e Celulose
+RAPT3,Material Rodoviário
+RAPT4,Material Rodoviário
+RCSL4,Material Rodoviário
+RDNI3,Incorporações
+RDOR3,Análises e Diagnósticos
+REDE3,Energia Elétrica
+RENT3,Aluguel de carros
+COCE3,Energia Elétrica
+COCE5,Energia Elétrica
+COCE6,Energia Elétrica
+COGN3,Serviços Educacionais
+RLOG3,Transporte Ferroviário
+CORR3,Exploração de Imóveis
+CORR4,Exploração de Imóveis
+ROMI3,Máq. e Equip. Industriais
+CPFE3,Energia Elétrica
+RPAD3,Bancos
+RPAD5,Bancos
+CPLE3,Energia Elétrica
+CPLE5,Energia Elétrica
+RPAD6,Bancos
+CPLE6,Energia Elétrica
+RPMG3,"Exploração, Refino e Distribuição"
+RSID3,Incorporações
+CRDE3,Incorporações
+CRFB3,Alimentos
+RSUL4,Material Rodoviário
+CRIV3,Soc. Crédito e Financiamento
+SANB3,Bancos
+CRIV4,Soc. Crédito e Financiamento
+SANB4,Bancos
+CRPG3,Químicos Diversos
+SAPR3,Água e Saneamento
+CRPG5,Químicos Diversos
+CRPG6,Químicos Diversos
+SAPR4,Água e Saneamento
+CSAB3,Seguradoras
+SBSP3,Água e Saneamento
+CSAB4,Seguradoras
+SCAR3,Exploração de Imóveis
+SEER3,Serviços Educacionais
+CSAN3,"Exploração, Refino e Distribuição"
+SGPS3,Fios e Tecidos
+SHOW3,Produção de Eventos e Shows
+CSMG3,Água e Saneamento
+SHUL4,"Motores, Compressores e Outros"
+CSNA3,Siderurgia
+CSRN3,Energia Elétrica
+SIMH3,Holdings Diversificadas
+SLCE3,Agricultura
+SLED3,Produtos Diversos
+CSRN5,Energia Elétrica
+SLED4,Produtos Diversos
+CSRN6,Energia Elétrica
+SMLS3,Programas de Fidelização
+SMTO3,Açucar e Alcool
+CTKA3,Fios e Tecidos
+CTKA4,Fios e Tecidos
+SOND3,Engenharia Consultiva
+CTNM3,Fios e Tecidos
+CTNM4,Fios e Tecidos
+SOND5,Engenharia Consultiva
+CTSA3,Fios e Tecidos
+SOND6,Engenharia Consultiva
+CTSA4,Fios e Tecidos
+CVCB3,Viagens e Turismo
+SQIA3,Programas e Serviços
+CYRE3,Incorporações
+STBP3,Serviços de Apoio e Armazenagem
+DASA3,Análises e Diagnósticos
+DIRR3,Incorporações
+DMMO3,"Exploração, Refino e Distribuição"
+SULA3,Seguradoras
+SULA4,Seguradoras
+DOHL3,Fios e Tecidos
+DOHL4,Fios e Tecidos
+SUZB3,Papel e Celulose
+TAEE3,Energia Elétrica
+DTEX3,Madeira
+TAEE4,Energia Elétrica
+EALT3,Máq. e Equip. Industriais
+TASA3,Armas e Munições
+EALT4,Máq. e Equip. Industriais
+TASA4,Armas e Munições
+ECOR3,Exploração de Rodovias
+TCNO3,Engenharia Consultiva
+ECPR3,Fios e Tecidos
+TCNO4,Engenharia Consultiva
+ECPR4,Fios e Tecidos
+EEEL3,Energia Elétrica
+TCSA3,Incorporações
+EEEL4,Energia Elétrica
+TECN3,Acessórios
+EGIE3,Energia Elétrica
+TEKA3,Fios e Tecidos
+TEKA4,Fios e Tecidos
+TELB3,Telecomunicações
+EKTR3,Energia Elétrica
+TELB4,Telecomunicações
+TEND3,Incorporações
+EKTR4,Energia Elétrica
+TGMA3,Transporte Rodoviário
+ELET3,Energia Elétrica
+TIET3,Energia Elétrica
+ELET5,Energia Elétrica
+TIET4,Energia Elétrica
+ELET6,Energia Elétrica
+TIMS3,Telecomunicações
+EMAE4,Energia Elétrica
+TKNO4,Artefatos de Ferro e Aço
+TOTS3,Programas e Serviços
+EMBR3,Material Aeronáutico e de Defesa
+TPIS3,Exploração de Rodovias
+ENAT3,"Exploração, Refino e Distribuição"
+TRIS3,Incorporações
+ENBR3,Energia Elétrica
+TRPL3,Energia Elétrica
+ENEV3,Energia Elétrica
+ENGI3,Energia Elétrica
+ENGI4,Energia Elétrica
+TRPL4,Energia Elétrica
+ENMT3,Energia Elétrica
+ENMT4,Energia Elétrica
+TUPY3,Material Rodoviário
+EQPA3,Energia Elétrica
+EQPA5,Energia Elétrica
+UCAS3,Móveis
+EQPA6,Energia Elétrica
+UGPA3,"Exploração, Refino e Distribuição"
+EQPA7,Energia Elétrica
+EQTL3,Energia Elétrica
+UNIP3,Químicos Diversos
+UNIP5,Químicos Diversos
+UNIP6,Químicos Diversos
+ETER3,Produtos para Construção
+USIM3,Siderurgia
+USIM6,Siderurgia
+EUCA3,Madeira
+EUCA4,Madeira
+VALE3,Minerais Metálicos
+EVEN3,Incorporações
+EZTC3,Incorporações
+FESA3,Siderurgia
+VIVA3,Acessórios
+VIVT3,Telecomunicações
+FESA4,Siderurgia
+FHER3,Fertilizantes e Defensivos
+VLID3,Serviços Diversos
+FIGE3,Outros
+FIGE4,Outros
+FLRY3,Análises e Diagnósticos
+VULC3,Calçados
+VVAR3,Eletrodomésticos
+FRAS3,Material Rodoviário
+WEGE3,"Motores, Compressores e Outros"
+FRIO3,Máq. e Equip. Industriais
+FRTA3,Agricultura
+WHRL3,Eletrodomésticos
+GEPA3,Energia Elétrica
+WHRL4,Eletrodomésticos
+GEPA4,Energia Elétrica
+WIZS3,Corretoras de Seguros
+GFSA3,Incorporações
+WLMM3,Material de Transporte
+GGBR3,Siderurgia
+WLMM4,Material de Transporte
+YDUQ3,Serviços Educacionais
+GGBR4,Siderurgia
+GNDI3,Análises e Diagnósticos
+GOAU3,Siderurgia
+GOAU4,Siderurgia
+GOLL4,Transporte Aéreo
+GPAR3,Energia Elétrica
+GPCP3,Petroquímicos
+USIM5,Siderurgia
+GRND3,Calçados
+GSHP3,Exploração de Imóveis
+GUAR3,"Tecidos, Vestuário e Calçados"
+HAPV3,Análises e Diagnósticos
+HBOR3,Incorporações
+HBTS5,Exploração de Imóveis
+HGTX3,Vestuário
