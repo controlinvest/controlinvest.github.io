@@ -11,6 +11,7 @@ RDPD11,FIIS,Títulos e Val. Mob.
 RNDP11,FIIS,Títulos e Val. Mob.
 BLCP11,FIIS,Outros
 BLMG11,FIIS,Outros
+BLMR11,FIIS,Títulos e Val. Mob.
 BCIA11,FIIS,Títulos e Val. Mob.
 BREV11,FIIS,Híbrido
 CARE11,FIIS,Híbrido
@@ -151,6 +152,7 @@ HSML11,FIIS,Shoppings
 HSRE11,FIIS,Híbrido
 IFIE11,FIIS,Títulos e Val. Mob.
 BICR11,FIIS,Títulos e Val. Mob.
+JFLL11,FIIS,Residencial
 RBBV11,FIIS,Títulos e Val. Mob.
 JPPA11,FIIS,Títulos e Val. Mob.
 JPPC11,FIIS,Híbrido
@@ -200,7 +202,7 @@ RBRF11,FIIS,Títulos e Val. Mob.
 RCFF11,FIIS,Títulos e Val. Mob.
 RBRL11,FIIS,Logística
 RBIV11,FIIS,Títulos e Val. Mob.
-RBVO11,FIIS,Não Disp.
+RBVO11,FIIS,
 RBFF11,FIIS,Títulos e Val. Mob.
 RBRS11,FIIS,Híbrido
 RZAK11,FIIS,Títulos e Val. Mob.
@@ -622,7 +624,7 @@ ABCB3,Ações,Bancos
 ABYA3,Ações,Incorporações
 ACES3,Ações,Siderurgia
 ACES4,Ações,Siderurgia
-ADHM3,Ações,Não Disp.
+ADHM3,Ações,
 AEDU11,Ações,Serviços Educacionais
 AEDU3,Ações,Serviços Educacionais
 AELP3,Ações,Energia Elétrica
@@ -637,7 +639,7 @@ AGIN3,Ações,Incorporações
 AHEB3,Ações,Produção de Eventos e Shows
 AHEB5,Ações,Produção de Eventos e Shows
 AHEB6,Ações,Produção de Eventos e Shows
-ALBA3,Ações,Não Disp.
+ALBA3,Ações,
 ALLL11,Ações,Transporte Ferroviário
 ALLL3,Ações,Transporte Ferroviário
 ALLL4,Ações,Transporte Ferroviário
@@ -645,23 +647,23 @@ ALPK3,Ações,Serviços Diversos
 ALSC3,Ações,Exploração de Imóveis
 ALUP11,Ações,Energia Elétrica
 AMBP3,Ações,Água e Saneamento
-AMBV3,Ações,Não Disp.
-AMBV4,Ações,Não Disp.
+AMBV3,Ações,
+AMBV4,Ações,
 AMIL3,Ações,Análises e Diagnósticos
 AMPI3,Ações,Energia Elétrica
-ARCE3,Ações,Não Disp.
+ARCE3,Ações,
 ARCZ3,Ações,Papel e Celulose
 ARCZ6,Ações,Papel e Celulose
-ARLA3,Ações,Não Disp.
-ARLA4,Ações,Não Disp.
-ARPS3,Ações,Não Disp.
-ARPS4,Ações,Não Disp.
-ARTE3,Ações,Não Disp.
-ARTE4,Ações,Não Disp.
+ARLA3,Ações,
+ARLA4,Ações,
+ARPS3,Ações,
+ARPS4,Ações,
+ARTE3,Ações,
+ARTE4,Ações,
 ARTR3,Ações,Exploração de Rodovias
-ASSM3,Ações,Não Disp.
-ASSM4,Ações,Não Disp.
-ASTA4,Ações,Não Disp.
+ASSM3,Ações,
+ASSM4,Ações,
+ASTA4,Ações,
 ATMP3,Ações,Serviços Diversos
 ATOM3,Ações,Outros
 AURA33,Ações,Minerais Metálicos
@@ -673,19 +675,19 @@ BAHI11,Ações,Serviços Educacionais
 BAHI4,Ações,Serviços Educacionais
 BAHI5,Ações,Serviços Educacionais
 BBTG11,Ações,Bancos
-BBTG12,Ações,Não Disp.
-BBTG13,Ações,Não Disp.
-BCAL6,Ações,Não Disp.
-BECE3,Ações,Não Disp.
-BECE4,Ações,Não Disp.
-BELG3,Ações,Não Disp.
-BELG4,Ações,Não Disp.
+BBTG12,Ações,
+BBTG13,Ações,
+BCAL6,Ações,
+BECE3,Ações,
+BECE4,Ações,
+BELG3,Ações,
+BELG4,Ações,
 BEMA3,Ações,Computadores e Equipamentos
-BERG3,Ações,Não Disp.
-BESP3,Ações,Não Disp.
-BESP4,Ações,Não Disp.
-BFIT3,Ações,Não Disp.
-BFIT4,Ações,Não Disp.
+BERG3,Ações,
+BESP3,Ações,
+BESP4,Ações,
+BFIT3,Ações,
+BFIT4,Ações,
 BHGR3,Ações,Exploração de Imóveis
 BICB3,Ações,Bancos
 BICB4,Ações,Bancos
@@ -695,8 +697,8 @@ BIOM4,Ações,Medicamentos e Outros Produtos
 BISA3,Ações,Incorporações
 BMEF3,Ações,Serviços Financeiros Diversos
 BMGB11,Ações,Bancos
-BMTO3,Ações,Não Disp.
-BMTO4,Ações,Não Disp.
+BMTO3,Ações,
+BMTO4,Ações,
 BNBR4,Ações,Bancos
 BNCA3,Ações,Bancos
 BOAS3,Ações,Serviços Financeiros Diversos
@@ -710,43 +712,43 @@ BRGE11,Ações,Seguradoras
 BRGE12,Ações,Seguradoras
 BRGE8,Ações,Seguradoras
 BRSR4,Ações,Bancos
-BRTP3,Ações,Não Disp.
-BRTP4,Ações,Não Disp.
+BRTP3,Ações,
+BRTP4,Ações,
 BSCT3,Ações,Bancos
 BSCT5,Ações,Bancos
 BSCT6,Ações,Bancos
 BSEV3,Ações,Açucar e Alcool
-BSGR3,Ações,Não Disp.
+BSGR3,Ações,
 BTTL4,Ações,Material de Transporte
 BUET3,Ações,Fios e Tecidos
 BUET4,Ações,Fios e Tecidos
-CAFE3,Ações,Não Disp.
-CAFE4,Ações,Não Disp.
+CAFE3,Ações,
+CAFE4,Ações,
 CAMB3,Ações,Calçados
 CAMB4,Ações,Calçados
 CASH3,Ações,Programas e Serviços
-CBMA3,Ações,Não Disp.
-CBMA4,Ações,Não Disp.
+CBMA3,Ações,
+CBMA4,Ações,
 CCHI3,Ações,Produtos para Construção
 CCHI4,Ações,Produtos para Construção
 CCIM3,Ações,Incorporações
-CCTU4,Ações,Não Disp.
+CCTU4,Ações,
 CCXC3,Ações,Minerais Metálicos
 CEED3,Ações,Energia Elétrica
 CEED4,Ações,Energia Elétrica
-CELM3,Ações,Não Disp.
+CELM3,Ações,
 CESP4,Ações,Energia Elétrica
-CFLU4,Ações,Não Disp.
+CFLU4,Ações,
 CGOS3,Ações,Energia Elétrica
 CGOS4,Ações,Energia Elétrica
-CIQU3,Ações,Não Disp.
-CIQU4,Ações,Não Disp.
-CLAN3,Ações,Não Disp.
-CLAN4,Ações,Não Disp.
+CIQU3,Ações,
+CIQU4,Ações,
+CLAN3,Ações,
+CLAN4,Ações,
 CLSC5,Ações,Energia Elétrica
 CLSC6,Ações,Energia Elétrica
-CMET4,Ações,Não Disp.
-CMMA4,Ações,Não Disp.
+CMET4,Ações,
+CMMA4,Ações,
 CNFB4,Ações,Artefatos de Ferro e Aço
 CNTO3,Ações,Produtos Diversos
 CPFG3,Ações,Energia Elétrica
@@ -754,41 +756,41 @@ CPFG4,Ações,Energia Elétrica
 CPFP4,Ações,Energia Elétrica
 CPNY3,Ações,Incorporações
 CPRE3,Ações,Energia Elétrica
-CPSL3,Ações,Não Disp.
-CRBM3,Ações,Não Disp.
-CRBM7,Ações,Não Disp.
+CPSL3,Ações,
+CRBM3,Ações,
+CRBM7,Ações,
 CREM3,Ações,Medicamentos e Outros Produtos
 CREM4,Ações,Medicamentos e Outros Produtos
-CRTP3,Ações,Não Disp.
-CRTP5,Ações,Não Disp.
-CRUZ3,Ações,Não Disp.
-CSPC3,Ações,Não Disp.
-CSPC4,Ações,Não Disp.
-CSTB3,Ações,Não Disp.
-CSTB4,Ações,Não Disp.
+CRTP3,Ações,
+CRTP5,Ações,
+CRUZ3,Ações,
+CSPC3,Ações,
+CSPC4,Ações,
+CSTB3,Ações,
+CSTB4,Ações,
 CTIP3,Ações,Serviços Financeiros Diversos
 CTPC3,Ações,Alimentos Diversos
 CTPC4,Ações,Alimentos Diversos
 CTSA8,Ações,Fios e Tecidos
-CTWR3,Ações,Não Disp.
+CTWR3,Ações,
 CURY3,Ações,Incorporações
 CYRE4,Ações,Incorporações
-CZLT33,Ações,Não Disp.
+CZLT33,Ações,
 CZRS3,Ações,Bancos
 CZRS4,Ações,Bancos
 DAGB33,Ações,Produtos Diversos
 DAYC3,Ações,Bancos
 DAYC4,Ações,Bancos
-DFVA3,Ações,Não Disp.
-DFVA4,Ações,Não Disp.
+DFVA3,Ações,
+DFVA4,Ações,
 DHBI3,Ações,Material Rodoviário
 DHBI4,Ações,Material Rodoviário
-DJON4,Ações,Não Disp.
+DJON4,Ações,
 DMVF3,Ações,Medicamentos e Outros Produtos
-DOCA3,Ações,Não Disp.
-DOCA4,Ações,Não Disp.
-DPPI3,Ações,Não Disp.
-DPPI4,Ações,Não Disp.
+DOCA3,Ações,
+DOCA4,Ações,
+DPPI3,Ações,
+DPPI4,Ações,
 DSUL3,Ações,Programas e Serviços
 DTCY3,Ações,Serviços Diversos
 DUFB11,Ações,Produtos Diversos
@@ -796,14 +798,14 @@ DUQE3,Ações,Artefatos de Ferro e Aço
 DUQE4,Ações,Artefatos de Ferro e Aço
 DURA3,Ações,Madeira
 DURA4,Ações,Madeira
-DXTG4,Ações,Não Disp.
-EBCO3,Ações,Não Disp.
-EBCO4,Ações,Não Disp.
+DXTG4,Ações,
+EBCO3,Ações,
+EBCO4,Ações,
 EBEN4,Ações,Energia Elétrica
-EBTP3,Ações,Não Disp.
-EBTP4,Ações,Não Disp.
-ECIS3,Ações,Não Disp.
-ECIS4,Ações,Não Disp.
+EBTP3,Ações,
+EBTP4,Ações,
+ECIS3,Ações,
+ECIS4,Ações,
 ELCA3,Ações,Energia Elétrica
 ELCA4,Ações,Energia Elétrica
 ELEK3,Ações,Petroquímicos
@@ -813,8 +815,8 @@ ELPL3,Ações,Energia Elétrica
 ELPL4,Ações,Energia Elétrica
 ELPL5,Ações,Energia Elétrica
 ELPL6,Ações,Energia Elétrica
-ELUM3,Ações,Não Disp.
-ELUM4,Ações,Não Disp.
+ELUM3,Ações,
+ELUM4,Ações,
 ENER3,Ações,Energia Elétrica
 ENER5,Ações,Energia Elétrica
 ENER6,Ações,Energia Elétrica
@@ -832,35 +834,35 @@ ESTR4,Ações,Brinquedos e Jogos
 ETER4,Ações,Produtos para Construção
 FBMC3,Ações,Artefatos de Ferro e Aço
 FBMC4,Ações,Artefatos de Ferro e Aço
-FBRA4,Ações,Não Disp.
-FCAP3,Ações,Não Disp.
-FCAP4,Ações,Não Disp.
+FBRA4,Ações,
+FCAP3,Ações,
+FCAP4,Ações,
 FFTL3,Ações,Fertilizantes e Defensivos
 FFTL4,Ações,Fertilizantes e Defensivos
 FGUI3,Ações,Fios e Tecidos
 FGUI4,Ações,Fios e Tecidos
 FIBR3,Ações,Papel e Celulose
-FLCL3,Ações,Não Disp.
-FLCL5,Ações,Não Disp.
-FLCL6,Ações,Não Disp.
+FLCL3,Ações,
+FLCL5,Ações,
+FLCL6,Ações,
 FRAS4,Ações,Material Rodoviário
 FTRX3,Ações,Fios e Tecidos
 FTRX4,Ações,Fios e Tecidos
 GAFP3,Ações,Incorporações
 GAFP4,Ações,Incorporações
-GALO3,Ações,Não Disp.
-GALO4,Ações,Não Disp.
-GAZO3,Ações,Não Disp.
-GAZO4,Ações,Não Disp.
+GALO3,Ações,
+GALO4,Ações,
+GAZO3,Ações,
+GAZO4,Ações,
 GBIO33,Ações,Medicamentos e Outros Produtos
 GETI3,Ações,Energia Elétrica
 GETI4,Ações,Energia Elétrica
 GLOB4,Ações,Eletrodomésticos
 GMAT3,Ações,Alimentos
 GPIV33,Ações,Gestão de Recursos e Investimentos
-GRNL4,Ações,Não Disp.
+GRNL4,Ações,
 GUAR4,Ações,"Tecidos, Vestuário e Calçados"
-GVTT3,Ações,Não Disp.
+GVTT3,Ações,
 HAGA3,Ações,Produtos para Construção
 HAGA4,Ações,Produtos para Construção
 HBRE3,Ações,Exploração de Imóveis
@@ -869,7 +871,7 @@ HETA3,Ações,Utensílios Domésticos
 HETA4,Ações,Utensílios Domésticos
 HGTX4,Ações,Vestuário
 HOOT4,Ações,Hotelaria
-ICPI3,Ações,Não Disp.
+ICPI3,Ações,
 IDVL11,Ações,Bancos
 IDVL3,Ações,Bancos
 IDVL4,Ações,Bancos
@@ -877,10 +879,10 @@ IENG3,Ações,Energia Elétrica
 IENG5,Ações,Energia Elétrica
 IGBR5,Ações,Exploração de Imóveis
 IGBR6,Ações,Exploração de Imóveis
-IGUA3,Ações,Não Disp.
-IGUA5,Ações,Não Disp.
-IGUA6,Ações,Não Disp.
-ILLS4,Ações,Não Disp.
+IGUA3,Ações,
+IGUA5,Ações,
+IGUA6,Ações,
+ILLS4,Ações,
 ILMD3,Ações,Fertilizantes e Defensivos
 ILMD4,Ações,Fertilizantes e Defensivos
 IMBI3,Ações,Serviços de Apoio e Armazenagem
@@ -890,31 +892,31 @@ INHA3,Ações,Incorporações
 INTB3,Ações,Computadores e Equipamentos
 ITEC3,Ações,Computadores e Equipamentos
 IVTT3,Ações,Exploração de Imóveis
-JFAB4,Ações,Não Disp.
+JFAB4,Ações,
 KLBN11,Ações,Papel e Celulose
 KROT11,Ações,Serviços Educacionais
 KROT4,Ações,Serviços Educacionais
 KSSA3,Ações,Incorporações
 LATM11,Ações,Transporte Aéreo
-LATS3,Ações,Não Disp.
+LATS3,Ações,
 LAVV3,Ações,Incorporações
-LCSA3,Ações,Não Disp.
-LCSA4,Ações,Não Disp.
-LECO3,Ações,Não Disp.
-LECO4,Ações,Não Disp.
+LCSA3,Ações,
+LCSA4,Ações,
+LECO3,Ações,
+LECO4,Ações,
 LETO3,Ações,Artefatos de Ferro e Aço
 LETO5,Ações,Artefatos de Ferro e Aço
 LEVE4,Ações,Automóveis e Motocicletas
-LFFE3,Ações,Não Disp.
-LFFE4,Ações,Não Disp.
-LGLO4,Ações,Não Disp.
+LFFE3,Ações,
+LFFE4,Ações,
+LGLO4,Ações,
 LIGH3,Ações,Energia Elétrica
-LIXC3,Ações,Não Disp.
-LIXC4,Ações,Não Disp.
+LIXC3,Ações,
+LIXC4,Ações,
 LREN4,Ações,"Tecidos, Vestuário e Calçados"
 LUPA3,Ações,Equipamentos e Serviços
-MAGG3,Ações,Não Disp.
-MAGS3,Ações,Não Disp.
+MAGG3,Ações,
+MAGS3,Ações,
 MAPT3,Ações,Outros
 MAPT4,Ações,Outros
 MARI3,Ações,"Tecidos, Vestuário e Calçados"
@@ -922,10 +924,10 @@ MBLY3,Ações,Programas e Serviços
 MDNE3,Ações,Incorporações
 MEDI3,Ações,Análises e Diagnósticos
 MELK3,Ações,Incorporações
-MEND5,Ações,Não Disp.
-MEND6,Ações,Não Disp.
+MEND5,Ações,
+MEND6,Ações,
 MGEL3,Ações,Artefatos de Ferro e Aço
-MILK33,Ações,Não Disp.
+MILK33,Ações,
 MLFT4,Ações,Exploração de Imóveis
 MLPA12,Ações,Papel e Celulose
 MLPA3,Ações,Papel e Celulose
@@ -933,28 +935,28 @@ MLPA4,Ações,Papel e Celulose
 MMXM3,Ações,Minerais Metálicos
 MNDL4,Ações,Acessórios
 MNPR4,Ações,Carnes e Derivados
-MNSA3,Ações,Não Disp.
-MNSA4,Ações,Não Disp.
+MNSA3,Ações,
+MNSA4,Ações,
 MOSI3,Ações,Programas e Serviços
-MPLU3,Ações,Não Disp.
+MPLU3,Ações,
 MRSA3B,Ações,Transporte Ferroviário
 MRSA5B,Ações,Transporte Ferroviário
 MRSA6B,Ações,Transporte Ferroviário
 MRSL3,Ações,Vestuário
 MRSL4,Ações,Vestuário
-MSAN3,Ações,Não Disp.
-MSAN4,Ações,Não Disp.
+MSAN3,Ações,
+MSAN4,Ações,
 MTBR3,Ações,Eletrodomésticos
 MTBR4,Ações,Eletrodomésticos
 MTRE3,Ações,Incorporações
 MWET3,Ações,Material Rodoviário
 MWET4,Ações,Material Rodoviário
 MYPK4,Ações,Automóveis e Motocicletas
-NAFG3,Ações,Não Disp.
-NAFG4,Ações,Não Disp.
-NATU3,Ações,Não Disp.
-NETC3,Ações,Não Disp.
-NETC4,Ações,Não Disp.
+NAFG3,Ações,
+NAFG4,Ações,
+NATU3,Ações,
+NETC3,Ações,
+NETC4,Ações,
 NGRD3,Ações,Programas e Serviços
 NORD3,Ações,Máq. e Equip. Industriais
 NTCO3,Ações,Produtos de Uso Pessoal
@@ -971,20 +973,20 @@ PDTC3,Ações,Gestão de Recursos e Investimentos
 PEFX3,Ações,Petroquímicos
 PEFX5,Ações,Petroquímicos
 PGMN3,Ações,Medicamentos e Outros Produtos
-PITI4,Ações,Não Disp.
-PLDN4,Ações,Não Disp.
-PLIM4,Ações,Não Disp.
+PITI4,Ações,
+PLDN4,Ações,
+PLIM4,Ações,
 PLPL3,Ações,Incorporações
-PLTO5,Ações,Não Disp.
-PLTO6,Ações,Não Disp.
+PLTO5,Ações,
+PLTO6,Ações,
 PMAM4,Ações,Artefatos de Cobre
-PMET3,Ações,Não Disp.
-PMET5,Ações,Não Disp.
-PMET6,Ações,Não Disp.
+PMET3,Ações,
+PMET5,Ações,
+PMET6,Ações,
 PNOR5,Ações,Petroquímicos
 PNOR6,Ações,Petroquímicos
-POPR4,Ações,Não Disp.
-PORP4,Ações,Não Disp.
+POPR4,Ações,
+PORP4,Ações,
 PQUN3,Ações,Petroquímicos
 PQUN4,Ações,Petroquímicos
 PRBC3,Ações,Bancos
@@ -993,13 +995,13 @@ PRGA4,Ações,Carnes e Derivados
 PRIO3,Ações,"Exploração, Refino e Distribuição"
 PRML3,Ações,Serviços de Apoio e Armazenagem
 PRTX3,Ações,Serviços de Apoio e Armazenagem
-PRVI3,Ações,Não Disp.
+PRVI3,Ações,
 PTBL4,Ações,Produtos para Construção
-PTIP3,Ações,Não Disp.
-PTIP4,Ações,Não Disp.
-PTPA3,Ações,Não Disp.
-PTPA4,Ações,Não Disp.
-PTQS4,Ações,Não Disp.
+PTIP3,Ações,
+PTIP4,Ações,
+PTPA3,Ações,
+PTPA4,Ações,
+PTQS4,Ações,
 RAIA3,Ações,Medicamentos e Outros Produtos
 RAIL3,Ações,Transporte Ferroviário
 RANI4,Ações,Papel e Celulose
@@ -1008,17 +1010,17 @@ RCTB33,Ações,Telecomunicações
 RCTB41,Ações,Telecomunicações
 RCTB42,Ações,Telecomunicações
 RDCD3,Ações,Serviços Financeiros Diversos
-RDTR3,Ações,Não Disp.
+RDTR3,Ações,
 REDE4,Ações,Energia Elétrica
-REEM4,Ações,Não Disp.
-REPA3,Ações,Não Disp.
-REPA4,Ações,Não Disp.
+REEM4,Ações,
+REPA3,Ações,
+REPA4,Ações,
 RGEG3,Ações,Energia Elétrica
 RHDS3,Ações,Petroquímicos
 RHDS4,Ações,Petroquímicos
 RIPI3,Ações,"Exploração, Refino e Distribuição"
 RIPI4,Ações,"Exploração, Refino e Distribuição"
-RJCP3,Ações,Não Disp.
+RJCP3,Ações,
 RNEW11,Ações,Energia Elétrica
 RNEW3,Ações,Energia Elétrica
 RNEW4,Ações,Energia Elétrica
@@ -1026,12 +1028,12 @@ RNPT3,Ações,Bancos
 RNPT4,Ações,Bancos
 ROMI4,Ações,Máq. e Equip. Industriais
 RPMG4,Ações,"Exploração, Refino e Distribuição"
-RPSA4,Ações,Não Disp.
+RPSA4,Ações,
 RRRP3,Ações,"Exploração, Refino e Distribuição"
 RSIP3,Ações,Agricultura
 RSIP4,Ações,Agricultura
-SALM3,Ações,Não Disp.
-SALM4,Ações,Não Disp.
+SALM3,Ações,
+SALM4,Ações,
 SANB11,Ações,Bancos
 SAPR11,Ações,Água e Saneamento
 SASG3,Ações,Seguradoras
@@ -1043,7 +1045,7 @@ SDIA4,Ações,Carnes e Derivados
 SEBB11,Ações,Serviços Educacionais
 SEBB3,Ações,Serviços Educacionais
 SEBB4,Ações,Serviços Educacionais
-SEDU3,Ações,Não Disp.
+SEDU3,Ações,
 SEMP3,Ações,Eletrodomésticos
 SEQL3,Ações,Serviços Diversos
 SFSA3,Ações,Bancos
@@ -1052,19 +1054,19 @@ SGEN3,Ações,Incorporações
 SGEN4,Ações,Incorporações
 SJOS3,Ações,Fios e Tecidos
 SJOS4,Ações,Fios e Tecidos
-SLCP3,Ações,Não Disp.
-SMLE3,Ações,Não Disp.
+SLCP3,Ações,
+SMLE3,Ações,
 SNSY5,Ações,Materiais Diversos
 SOMA3,Ações,"Tecidos, Vestuário e Calçados"
-SPRI3,Ações,Não Disp.
-SPRI5,Ações,Não Disp.
-SPRI6,Ações,Não Disp.
+SPRI3,Ações,
+SPRI5,Ações,
+SPRI6,Ações,
 STBP11,Ações,Serviços de Apoio e Armazenagem
 STRP4,Ações,Vestuário
-SUBA3,Ações,Não Disp.
+SUBA3,Ações,
 SULA11,Ações,Seguradoras
-SULT3,Ações,Não Disp.
-SULT4,Ações,Não Disp.
+SULT3,Ações,
+SULT4,Ações,
 SUZA4,Ações,Holdings Diversificadas
 SUZB5,Ações,Papel e Celulose
 SUZB6,Ações,Papel e Celulose
@@ -1076,12 +1078,12 @@ TANC4,Ações,Transporte Aéreo
 TARP11,Ações,Holdings Diversificadas
 TBLE5,Ações,Energia Elétrica
 TBLE6,Ações,Energia Elétrica
-TCOC3,Ações,Não Disp.
-TCOC4,Ações,Não Disp.
+TCOC3,Ações,
+TCOC4,Ações,
 TCSL4,Ações,Telecomunicações
-TDBH3,Ações,Não Disp.
-TDBH4,Ações,Não Disp.
-TEFC11,Ações,Não Disp.
+TDBH3,Ações,
+TDBH4,Ações,
+TEFC11,Ações,
 TEMP3,Ações,Análises e Diagnósticos
 TENE5,Ações,Fios e Tecidos
 TENE7,Ações,Fios e Tecidos
@@ -1090,37 +1092,37 @@ TESA3,Ações,Agricultura
 TFCO4,Ações,Vestuário
 TIET11,Ações,Energia Elétrica
 TIMP3,Ações,Telecomunicações
-TLCP3,Ações,Não Disp.
-TLCP4,Ações,Não Disp.
-TMAR3,Ações,Não Disp.
-TMAR5,Ações,Não Disp.
-TMAR6,Ações,Não Disp.
-TMCP3,Ações,Não Disp.
-TMCP4,Ações,Não Disp.
-TMGC11,Ações,Não Disp.
-TMGC12,Ações,Não Disp.
-TMGC13,Ações,Não Disp.
-TMGC3,Ações,Não Disp.
-TMGC7,Ações,Não Disp.
-TNCP3,Ações,Não Disp.
-TNCP4,Ações,Não Disp.
-TNEP3,Ações,Não Disp.
-TNEP4,Ações,Não Disp.
-TNLP3,Ações,Não Disp.
-TNLP4,Ações,Não Disp.
-TOYB3,Ações,Não Disp.
-TOYB4,Ações,Não Disp.
+TLCP3,Ações,
+TLCP4,Ações,
+TMAR3,Ações,
+TMAR5,Ações,
+TMAR6,Ações,
+TMCP3,Ações,
+TMCP4,Ações,
+TMGC11,Ações,
+TMGC12,Ações,
+TMGC13,Ações,
+TMGC3,Ações,
+TMGC7,Ações,
+TNCP3,Ações,
+TNCP4,Ações,
+TNEP3,Ações,
+TNEP4,Ações,
+TNLP3,Ações,
+TNLP4,Ações,
+TOYB3,Ações,
+TOYB4,Ações,
 TPRC3,Ações,Telecomunicações
 TPRC6,Ações,Telecomunicações
-TRFO3,Ações,Não Disp.
-TRFO4,Ações,Não Disp.
-TROR3,Ações,Não Disp.
-TROR4,Ações,Não Disp.
+TRFO3,Ações,
+TRFO4,Ações,
+TROR3,Ações,
+TROR4,Ações,
 TRPN3,Ações,Holdings Diversificadas
-TSEP3,Ações,Não Disp.
-TSEP4,Ações,Não Disp.
-TSPP3,Ações,Não Disp.
-TSPP4,Ações,Não Disp.
+TSEP3,Ações,
+TSEP4,Ações,
+TSPP3,Ações,
+TSPP4,Ações,
 TUPY4,Ações,Material Rodoviário
 TVIT3,Ações,Programas e Serviços
 TXRX3,Ações,Fios e Tecidos
@@ -1128,7 +1130,7 @@ TXRX4,Ações,Fios e Tecidos
 UBBR11,Ações,Bancos
 UBBR3,Ações,Bancos
 UBBR4,Ações,Bancos
-UCOP4,Ações,Não Disp.
+UCOP4,Ações,
 UGPA4,Ações,"Exploração, Refino e Distribuição"
 UOLL4,Ações,Programas e Serviços
 VAGV3,Ações,Transporte Aéreo
@@ -1136,13 +1138,13 @@ VAGV4,Ações,Transporte Aéreo
 VALE5,Ações,Minerais Metálicos
 VAMO3,Ações,Aluguel de carros
 VCPA4,Ações,Papel e Celulose
-VGOR3,Ações,Não Disp.
-VGOR4,Ações,Não Disp.
-VIGR3,Ações,Não Disp.
+VGOR3,Ações,
+VGOR4,Ações,
+VIGR3,Ações,
 VINE3,Ações,Fios e Tecidos
 VINE5,Ações,Fios e Tecidos
-VIVO3,Ações,Não Disp.
-VIVO4,Ações,Não Disp.
+VIVO3,Ações,
+VIVO4,Ações,
 VIVR3,Ações,Incorporações
 VIVT4,Ações,Telecomunicações
 VNET3,Ações,Serviços Financeiros Diversos
@@ -1152,12 +1154,12 @@ VPTA3,Ações,Transporte Aéreo
 VPTA4,Ações,Transporte Aéreo
 VSPT3,Ações,Transporte Ferroviário
 VSPT4,Ações,Transporte Ferroviário
-VTLM3,Ações,Não Disp.
+VTLM3,Ações,
 VULC4,Ações,Calçados
 VVAR11,Ações,Eletrodomésticos
 VVAR4,Ações,Eletrodomésticos
-VVAX3,Ações,Não Disp.
-VVAX4,Ações,Não Disp.
+VVAX3,Ações,
+VVAX4,Ações,
 WEGE4,Ações,"Motores, Compressores e Outros"
 WISA3,Ações,Artefatos de Ferro e Aço
 WISA4,Ações,Artefatos de Ferro e Aço
